@@ -8,7 +8,7 @@ const Home = () => {
       <main>
         <Button>
           {/* <Loader2 /> */}
-          Click Me!
+          Click Me
         </Button>
       </main>
     </div>
